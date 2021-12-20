@@ -19,3 +19,24 @@
 
 // let, const and var
 // const language = 'German';
+
+
+// Basic operators
+// arithmetic
+// const alenaBirthYear = 1990;
+// const currentYear = 2021;
+// let age = currentYear - alenaBirthYear;
+// console.log(`Alena is ${age} years old.`);
+// // 2 ** 3 means 2 to the power of 3
+// const isFullAge = age >= 18;
+
+// const halfPopulation = population / 2;
+// console.log(halfPopulation);
+// console.log(population += 1);
+// const finlandPopulation = 6;
+// console.log(population > finlandPopulation);
+// const avgCountryPopulation = 33;
+// console.log(population < avgCountryPopulation);
+// const description = `${country} is in ${continent}, and its ${population} million
+// people speak ${language}`
+// console.log(description);
